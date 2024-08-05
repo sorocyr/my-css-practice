@@ -1,0 +1,22 @@
+.black-background {
+    background-color: #000000;
+}
+.yellow-background {
+    background-color: yellow
+}
+
+.white-text {
+    color: white
+}
+
+.black-text{
+    color: black
+}
+
+.helvetica-family{
+    Helvetica, 'Times New Roman', san-serif;
+}
+
+.medium-text{
+    font-size: 28px
+}
